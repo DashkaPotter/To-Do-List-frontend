@@ -27,7 +27,7 @@ body{
 }
 
 .toDoList{
-  padding: 110px 96px;
+  padding: 100px 90px;
   margin-top: 1rem; 
   border-radius: 20px;
   display: flex;
@@ -40,7 +40,6 @@ body{
   border: 1px solid rgba( 255, 255, 255, 0.18 );
   overflow-y: auto;
   flex-wrap: nowrap;
-  padding-bottom: 60px;
 }
 
 /* .title{
@@ -78,13 +77,13 @@ input {
   }
   
   .p-container {
-  margin-top: 0.8rem;
+  margin-top: 0.6rem;
   width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: #333;
-  font-size: 20px;
+  font-size: 17px;
   border-bottom: 2px solid rgb(223, 161, 181);
   padding: 15px 2px;
   }
