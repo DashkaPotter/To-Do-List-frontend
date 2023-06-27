@@ -27,7 +27,7 @@ body{
 }
 
 .toDoList{
-  padding: 100px 90px;
+  padding: 50px 30px;
   margin-top: 1rem; 
   border-radius: 20px;
   display: flex;
@@ -54,9 +54,10 @@ body{
 }
 input {
   border-color: transparent;
-  font-size: 1.2rem;
-  flex: 1 0 auto;
-  padding: 1rem 2rem;
+  flex: 1;
+  font-size: 1rem;
+  padding: 0.5rem 1.8rem;
+  height: 50px;
   border-top-left-radius: 0.8rem;
   border-bottom-left-radius:0.8rem;
   border: 2px solid rgb(223, 161, 181);
@@ -66,6 +67,7 @@ input {
   color: white;
   border-color: transparent;
   padding: 1rem 2rem;
+  height: 50px;
   font-size: 20px;
   cursor: pointer;
   border-top-right-radius: 0.8rem;
@@ -78,14 +80,14 @@ input {
   
   .p-container {
   margin-top: 0.6rem;
-  width: 100%;
+  width: 80%;
   display: flex;
   align-items: center;
   justify-content: space-between;
   color: #333;
   font-size: 17px;
   border-bottom: 2px solid rgb(223, 161, 181);
-  padding: 15px 2px;
+  padding: 14px 2px;
   }
   .d-e{
   position: relative;
