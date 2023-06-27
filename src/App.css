@@ -17,7 +17,7 @@ body{
   overflow: overlay;
   background-attachment: fixed;
   height: 100vh;
-  background-image: url( 'https://images.pexels.com/photos/1883386/pexels-photo-1883386.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+  background-image: url( '');
   background-size: cover;
   background-repeat: no-repeat;
 }
